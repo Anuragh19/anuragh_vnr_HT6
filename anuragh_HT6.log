@@ -1,0 +1,18 @@
+2020-03-04 01:22:25 INFO  MyList:24 - Added value Epam to the list
+2020-03-04 01:22:25 INFO  MyList:26 - Incremented size by one
+2020-03-04 01:22:25 INFO  MyList:63 - Increased list capacity by 5 times
+2020-03-04 01:22:25 INFO  MyList:57 - Added value Java to the list at positon 1
+2020-03-04 01:22:25 INFO  MyList:58 - Incremented size by one
+2020-03-04 01:22:25 INFO  MyList:24 - Added value JavaScript to the list
+2020-03-04 01:22:25 INFO  MyList:26 - Incremented size by one
+2020-03-04 01:22:25 INFO  App:21 - [Epam,Java,JavaScript]
+2020-03-04 01:22:25 INFO  MyList:24 - Added value JavaScript to the list
+2020-03-04 01:22:25 INFO  MyList:26 - Incremented size by one
+2020-03-04 01:22:25 INFO  MyList:57 - Added value Core Java to the list at positon 1
+2020-03-04 01:22:25 INFO  MyList:58 - Incremented size by one
+2020-03-04 01:22:25 INFO  App:24 - [Epam,Core Java,Java,JavaScript]
+2020-03-04 01:22:25 INFO  MyList:76 - Retreiving value at index 2
+2020-03-04 01:22:25 INFO  App:26 - The value at position 2 Java
+2020-03-04 01:22:25 INFO  MyList:95 - Removed value at index 1
+2020-03-04 01:22:25 INFO  MyList:96 - Decremented size by one
+2020-03-04 01:22:25 INFO  App:29 - [Epam,Java,JavaScript]
